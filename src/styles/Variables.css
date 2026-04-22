@@ -1,0 +1,17 @@
+:root {
+  --cream:         #F5F0E8;
+  --sand:          #E8DFC8;
+  --charcoal:      #2C2A25;
+  --charcoal-soft: #4A4640;
+  --green:         #3D6B3D;
+  --green-light:   #5C8F5C;
+  --green-pale:    #D6E8D6;
+  --border:        #B8AE94;
+  --footer-text:   #A09A8E;
+  --about-body:    #C8C2B8;
+
+  --font-display: 'Cormorant Garamond', serif;
+  --font-body:    'DM Sans', sans-serif;
+
+  --nav-h: 68px;
+}
