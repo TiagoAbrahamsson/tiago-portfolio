@@ -1,5 +1,6 @@
 import Navbar from './components/Navbar'
 import Hero from './sections/Hero'
+import About from './sections/About'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       <main id="main-content">
         <Hero />
+        <About />
       </main>
     </div>
   )
